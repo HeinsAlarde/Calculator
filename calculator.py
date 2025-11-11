@@ -14,12 +14,6 @@ def divide(x, y):
         return "Error: Division by zero!"
     return x / y
 
-def subtract(x, y):
-
-def multiply(x, y):
-
-def divide(x, y):
-
 print("Select operation:")
 print("1. Add")
 print("2. Subtract")
